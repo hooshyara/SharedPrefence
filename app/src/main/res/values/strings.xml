@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">shared prefence</string>
+    <string name="shared_perfernce">shared Perfernce</string>
+    <string name="name_Fullname">نام و نام خانوادگی</string>
+    <string name="email_address">آدرس ایمیل</string>
+    <string name="gender">جنسیت</string>
+    <string name="male">آقا</string>
+    <string name="female">خانم</string>
+    <string name="save_informations">ذخیره اطلاعات</string>
+</resources>
